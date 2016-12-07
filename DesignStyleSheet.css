@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#main
+{
+	background-color: #CCC;
+	opacity: .50;
+	height: 1450px;
+	width: 300px;
+}
+
+#header
+{
+
+}
+
+#footer
+{
+	
+}
+
+#maincontent
+{
+	
+}
+
+#background
+{
+	background-image: url(../Images/BG.jpg);
+}
+
+#navbar
+{
+	
+}
+
+#graphicLEFT
+{
+	
+}
+
+#grqaphicRIGHT
+{
+	
+}
